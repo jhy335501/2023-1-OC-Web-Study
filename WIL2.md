@@ -11,11 +11,13 @@ JavaScript: 제어
 Working Directory는 "작업 공간"으로 내가 코드를 짜고 있는 공간이다. 
 우리가 만든 변화들을 모아둘 수 있는 공간을 Staging Area라고 부른다.
 
+
 - > add, commit,push 명령어
 -  git add 명령어를 통해 working directory에 있는 변화들 중 다음 커밋에 포함시키 변화를 Staging Area에 쌓아둘 수 있다.
 git commit 명령어를 통해 staging area에 있는 변화를 엮어 Local Repository에 commit할 수 있다.
 깃허브는 깃 + Hub로 일종의 저장소이며 단지 Remote Repository를 제공해주는 서버중 하나이다.
 push 명령어를 통해서 내가 commit한 코드를 친구와 공유할 수 있다.
+
 
 - >Fetch와 Pull의 차이
 - 둘다 결국 원격저장소의 내용을 가져오는데 사용됩니다.
